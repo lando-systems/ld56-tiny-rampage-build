@@ -1,0 +1,4388 @@
+
+sprites.png
+size: 4096, 2048
+format: RGBA8888
+filter: Nearest, Linear
+repeat: none
+backgrounds/background-biome
+  rotate: false
+  xy: 2565, 965
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: 0
+backgrounds/background-biome
+  rotate: false
+  xy: 2565, 603
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: 1
+backgrounds/background-biome
+  rotate: false
+  xy: 3207, 965
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: 3
+backgrounds/background-biome
+  rotate: false
+  xy: 873, 242
+  size: 638, 359
+  orig: 638, 359
+  offset: 0, 0
+  index: 2
+backgrounds/background-biome_floor
+  rotate: false
+  xy: 1, 223
+  size: 640, 64
+  orig: 640, 64
+  offset: 0, 0
+  index: 0
+backgrounds/background-city
+  rotate: false
+  xy: 3205, 1327
+  size: 640, 720
+  orig: 640, 720
+  offset: 0, 0
+  index: 0
+backgrounds/background-level-1
+  rotate: false
+  xy: 3207, 603
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: 0
+backgrounds/background-neighborhood-overlay
+  rotate: false
+  xy: 1, 1687
+  size: 1920, 360
+  orig: 1920, 360
+  offset: 0, 0
+  index: 0
+backgrounds/background-neighborhood-sky
+  rotate: false
+  xy: 1, 1325
+  size: 1920, 360
+  orig: 1920, 360
+  offset: 0, 0
+  index: 0
+creatures/ant/player-ant-bite
+  rotate: false
+  xy: 3862, 106
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+creatures/ant/player-ant-idle
+  rotate: false
+  xy: 3862, 106
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+creatures/ant/player-ant-bite
+  rotate: false
+  xy: 3896, 106
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+creatures/ant/player-ant-bite
+  rotate: false
+  xy: 3930, 106
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+creatures/ant/player-ant-bite
+  rotate: false
+  xy: 3855, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+creatures/ant/player-ant-idle
+  rotate: false
+  xy: 3889, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+creatures/ant/player-ant-walk
+  rotate: false
+  xy: 3889, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+creatures/ant/player-ant-walk
+  rotate: false
+  xy: 3889, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+creatures/ant/player-ant-punch
+  rotate: false
+  xy: 4000, 1803
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 0
+creatures/ant/player-ant-punch
+  rotate: false
+  xy: 165, 84
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 1
+creatures/ant/player-ant-punch
+  rotate: false
+  xy: 2847, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 2
+creatures/ant/player-ant-punch
+  rotate: false
+  xy: 4000, 1729
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 3
+creatures/ant/player-ant-punch
+  rotate: false
+  xy: 239, 84
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 4
+creatures/ant/player-ant-punch
+  rotate: false
+  xy: 2921, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 5
+creatures/ant/player-ant-punch
+  rotate: false
+  xy: 2995, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 6
+creatures/ant/player-ant-punch
+  rotate: false
+  xy: 3069, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 7
+creatures/ant/player-ant-punch
+  rotate: false
+  xy: 3143, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 8
+creatures/ant/player-ant-punch
+  rotate: false
+  xy: 3217, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 9
+creatures/ant/player-ant-up-punch
+  rotate: false
+  xy: 3291, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 0
+creatures/ant/player-ant-up-punch
+  rotate: false
+  xy: 3365, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 1
+creatures/ant/player-ant-up-punch
+  rotate: false
+  xy: 3439, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 2
+creatures/ant/player-ant-up-punch
+  rotate: false
+  xy: 3513, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 3
+creatures/ant/player-ant-up-punch
+  rotate: false
+  xy: 3587, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 4
+creatures/ant/player-ant-up-punch
+  rotate: false
+  xy: 3661, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 5
+creatures/ant/player-ant-up-punch
+  rotate: false
+  xy: 3735, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 6
+creatures/ant/player-ant-up-punch
+  rotate: false
+  xy: 3849, 1258
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 7
+creatures/ant/player-ant-up-punch
+  rotate: false
+  xy: 3849, 1184
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 8
+creatures/ant/player-ant-up-punch
+  rotate: false
+  xy: 3849, 1110
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: 9
+creatures/ant/player-ant-walk
+  rotate: false
+  xy: 3923, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+creatures/ant/player-ant-walk
+  rotate: false
+  xy: 3855, 38
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+creatures/kittens/kitten
+  rotate: false
+  xy: 1485, 1
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: 0
+creatures/kittens/kitten
+  rotate: false
+  xy: 1515, 1
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: 1
+creatures/kittens/kitten
+  rotate: false
+  xy: 1545, 1
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: 2
+creatures/kittens/kitten
+  rotate: false
+  xy: 1575, 1
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: 3
+creatures/parasite/parasite-attack/parasite-attack
+  rotate: false
+  xy: 3956, 1346
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 0
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 3956, 1346
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 14
+creatures/parasite/parasite-idle/parasite-idle
+  rotate: false
+  xy: 4022, 1365
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 0
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 4022, 1365
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 0
+creatures/parasite/parasite-idle/parasite-idle
+  rotate: false
+  xy: 1579, 190
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 1
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 1579, 190
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 1
+creatures/parasite/parasite-idle/parasite-idle
+  rotate: false
+  xy: 1973, 175
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 2
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 1973, 175
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 2
+creatures/parasite/parasite-idle/parasite-idle
+  rotate: false
+  xy: 2178, 241
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 3
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 2178, 241
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 3
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 2244, 241
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 4
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 2310, 241
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 5
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 2376, 241
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 6
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 2442, 241
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 7
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 2508, 241
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 8
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 2574, 241
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 9
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 2640, 241
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 10
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 2706, 241
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 11
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 2039, 157
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 12
+creatures/parasite/parasite-move/parasite-move
+  rotate: false
+  xy: 2105, 157
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 13
+creatures/parasite/player-parasite-ball
+  rotate: false
+  xy: 3755, 5
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: 0
+creatures/parasite/player-parasite-head
+  rotate: false
+  xy: 1, 11
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: 0
+creatures/phage/phage-headbutt/player-phage-headbutt
+  rotate: false
+  xy: 2369, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+creatures/phage/phage-idle/player-phage-idle
+  rotate: false
+  xy: 2369, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+creatures/phage/phage-jump/player-phage-jump
+  rotate: false
+  xy: 2369, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+creatures/phage/phage-stick/player-phage-stick
+  rotate: false
+  xy: 2369, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+creatures/phage/phage-walk/player-phage-walk
+  rotate: false
+  xy: 2369, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+creatures/phage/phage-headbutt/player-phage-headbutt
+  rotate: false
+  xy: 2435, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+creatures/phage/phage-headbutt/player-phage-headbutt
+  rotate: false
+  xy: 2501, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+creatures/phage/phage-headbutt/player-phage-headbutt
+  rotate: false
+  xy: 2567, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+creatures/phage/phage-headbutt/player-phage-headbutt
+  rotate: false
+  xy: 2633, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+creatures/phage/phage-headbutt/player-phage-headbutt
+  rotate: false
+  xy: 2699, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+creatures/phage/phage-headbutt/player-phage-headbutt
+  rotate: false
+  xy: 2171, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+creatures/phage/phage-hurt/player-phage-hurt
+  rotate: false
+  xy: 2237, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+creatures/phage/phage-hurt/player-phage-hurt
+  rotate: false
+  xy: 2303, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+creatures/phage/phage-hurt/player-phage-hurt
+  rotate: false
+  xy: 2303, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+creatures/phage/phage-jump/player-phage-jump
+  rotate: false
+  xy: 2303, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+creatures/phage/phage-hurt/player-phage-hurt
+  rotate: false
+  xy: 2369, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+creatures/phage/phage-idle/player-phage-idle
+  rotate: false
+  xy: 2435, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+creatures/phage/phage-idle/player-phage-idle
+  rotate: false
+  xy: 2435, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+creatures/phage/phage-stick/player-phage-stick
+  rotate: false
+  xy: 2435, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+creatures/phage/phage-walk/player-phage-walk
+  rotate: false
+  xy: 2435, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+creatures/phage/phage-idle/player-phage-idle
+  rotate: false
+  xy: 2501, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+creatures/phage/phage-jump/player-phage-jump
+  rotate: false
+  xy: 2567, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+creatures/phage/phage-jump/player-phage-jump
+  rotate: false
+  xy: 2633, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+creatures/phage/phage-stick/player-phage-stick
+  rotate: false
+  xy: 2699, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+creatures/phage/phage-stick/player-phage-stick
+  rotate: false
+  xy: 2772, 191
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+creatures/phage/phage-stick/player-phage-stick
+  rotate: false
+  xy: 2765, 125
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+creatures/phage/phage-stick/player-phage-stick
+  rotate: false
+  xy: 2765, 59
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+creatures/phage/phage-stick/player-phage-stick
+  rotate: false
+  xy: 1841, 141
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+creatures/phage/phage-walk/player-phage-walk
+  rotate: false
+  xy: 1907, 141
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+creatures/phage/phage-walk/player-phage-walk
+  rotate: false
+  xy: 1973, 109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+creatures/phage/phage-walk/player-phage-walk
+  rotate: false
+  xy: 2039, 91
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+creatures/rat/player-rat-bite
+  rotate: false
+  xy: 3889, 38
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+creatures/rat/player-rat-idle
+  rotate: false
+  xy: 3889, 38
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+creatures/rat/player-rat-bite
+  rotate: false
+  xy: 3923, 38
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+creatures/rat/player-rat-bite
+  rotate: false
+  xy: 4055, 1331
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+creatures/rat/player-rat-bite
+  rotate: false
+  xy: 4055, 1297
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+creatures/rat/player-rat-idle
+  rotate: false
+  xy: 4055, 1263
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+creatures/rat/player-rat-walk
+  rotate: false
+  xy: 4055, 1229
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+creatures/rat/player-rat-walk
+  rotate: false
+  xy: 4055, 1229
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+creatures/rat/player-rat-walk
+  rotate: false
+  xy: 4055, 1195
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+creatures/rat/player-rat-walk
+  rotate: false
+  xy: 4055, 1161
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+creatures/snake/player-snake-ball
+  rotate: false
+  xy: 2793, 423
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 0
+creatures/snake/player-snake-head
+  rotate: false
+  xy: 4047, 966
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 0
+creatures/snake/player-snake-head-bite
+  rotate: false
+  xy: 2793, 373
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 0
+creatures/snake/player-snake-head-bite
+  rotate: false
+  xy: 2793, 323
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 1
+creatures/worm/worm-attack/worm-attack
+  rotate: false
+  xy: 2765, 25
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 0
+creatures/worm/worm-hurt/worm-hurt
+  rotate: false
+  xy: 2765, 25
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 2
+creatures/worm/worm-hurt/worm-hurt
+  rotate: false
+  xy: 2765, 25
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 0
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 2765, 25
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 14
+creatures/worm/worm-hurt/worm-hurt
+  rotate: false
+  xy: 1501, 21
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 1
+creatures/worm/worm-hurt/worm-hurt
+  rotate: false
+  xy: 1501, 21
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 3
+creatures/worm/worm-idle/worm-idle
+  rotate: false
+  xy: 1567, 21
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 0
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 1567, 21
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 0
+creatures/worm/worm-idle/worm-idle
+  rotate: false
+  xy: 3755, 33
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 1
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 3755, 33
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 1
+creatures/worm/worm-idle/worm-idle
+  rotate: false
+  xy: 825, 10
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 2
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 825, 10
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 2
+creatures/worm/worm-idle/worm-idle
+  rotate: false
+  xy: 891, 10
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 3
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 891, 10
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 3
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 957, 10
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 4
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 1023, 10
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 5
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 1089, 10
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 6
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 1155, 10
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 7
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 1221, 10
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 8
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 1287, 10
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 9
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 1353, 10
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 10
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 1419, 10
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 11
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 3843, 548
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 12
+creatures/worm/worm-move/worm-move
+  rotate: false
+  xy: 3843, 514
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: 13
+enemies/chicken/chicken
+  rotate: false
+  xy: 3809, 569
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+enemies/chicken/chicken
+  rotate: false
+  xy: 3809, 535
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+enemies/chicken/chicken
+  rotate: false
+  xy: 128, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+enemies/chicken/chicken
+  rotate: false
+  xy: 4053, 1591
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+enemies/chicken/chicken
+  rotate: false
+  xy: 4047, 816
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+enemies/chicken/chicken
+  rotate: false
+  xy: 4053, 1557
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+enemies/chicken/chicken
+  rotate: false
+  xy: 4047, 782
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+enemies/chicken/chicken
+  rotate: false
+  xy: 4047, 748
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+enemies/chicken/chicken
+  rotate: false
+  xy: 4047, 714
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+enemies/chicken/chicken
+  rotate: false
+  xy: 4047, 680
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+enemies/doc/doc-punch
+  rotate: false
+  xy: 3939, 480
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+enemies/doc/doc-punch
+  rotate: false
+  xy: 3833, 420
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+enemies/doc/doc-punch
+  rotate: false
+  xy: 3833, 386
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+enemies/doc/doc-punch
+  rotate: false
+  xy: 3833, 352
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+enemies/doc/doc-run
+  rotate: false
+  xy: 3833, 318
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+enemies/doc/doc-run
+  rotate: false
+  xy: 3833, 284
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+enemies/doc/doc-run
+  rotate: false
+  xy: 3871, 446
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+enemies/doc/doc-run
+  rotate: false
+  xy: 3905, 446
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+enemies/doc/doc-run
+  rotate: false
+  xy: 3939, 446
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+enemies/doc/doc-run
+  rotate: false
+  xy: 3867, 412
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+enemies/doc/doc-run
+  rotate: false
+  xy: 3867, 378
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+enemies/doc/doc-run
+  rotate: false
+  xy: 3901, 412
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+enemies/doc/doc-run
+  rotate: false
+  xy: 3867, 344
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+enemies/doc/doc-run
+  rotate: false
+  xy: 3901, 378
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+enemies/rocket/player-ship-active
+  rotate: false
+  xy: 2327, 473
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+enemies/rocket/player-ship-active
+  rotate: false
+  xy: 2457, 473
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+enemies/rocket/player-ship-active
+  rotate: false
+  xy: 2587, 473
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+enemies/rocket/player-ship-active
+  rotate: false
+  xy: 2717, 473
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+enemies/tard/tarde
+  rotate: false
+  xy: 64, 1
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: 1
+enemies/tard/tarde
+  rotate: false
+  xy: 3987, 1513
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: 2
+enemies/truck/plow-a
+  rotate: false
+  xy: 1, 56
+  size: 162, 100
+  orig: 162, 100
+  offset: 0, 0
+  index: 0
+icons/heart
+  rotate: false
+  xy: 2046, 389
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+icons/heart-broken
+  rotate: false
+  xy: 98, 1
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/arrow_clockwise
+  rotate: false
+  xy: 643, 223
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/arrow_counterclockwise
+  rotate: false
+  xy: 313, 92
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/arrow_counterclockwise_outline
+  rotate: false
+  xy: 3849, 1044
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/arrow_cross
+  rotate: false
+  xy: 709, 223
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/arrow_cross_divided
+  rotate: false
+  xy: 3849, 978
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/arrow_diagonal
+  rotate: false
+  xy: 775, 223
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/arrow_diagonal_cross
+  rotate: false
+  xy: 3849, 912
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/arrow_diagonal_cross_divided
+  rotate: false
+  xy: 3849, 846
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/arrow_horizontal
+  rotate: false
+  xy: 3849, 780
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/arrow_reserve
+  rotate: false
+  xy: 3849, 714
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/arrow_right
+  rotate: false
+  xy: 3849, 648
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/arrow_right_curve
+  rotate: false
+  xy: 381, 157
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/arrow_rotate
+  rotate: false
+  xy: 447, 157
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/award
+  rotate: false
+  xy: 513, 157
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/book_closed
+  rotate: false
+  xy: 579, 157
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/book_open
+  rotate: false
+  xy: 645, 157
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/bow
+  rotate: false
+  xy: 711, 157
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/campfire
+  rotate: false
+  xy: 777, 157
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card
+  rotate: false
+  xy: 379, 91
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_add
+  rotate: false
+  xy: 445, 91
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_diagonal
+  rotate: false
+  xy: 511, 91
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_down
+  rotate: false
+  xy: 577, 91
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_down_outline
+  rotate: false
+  xy: 643, 91
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_flip
+  rotate: false
+  xy: 709, 91
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_flipdouble
+  rotate: false
+  xy: 775, 91
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_lift
+  rotate: false
+  xy: 2847, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_outline
+  rotate: false
+  xy: 2913, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_outline_lift
+  rotate: false
+  xy: 2979, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_outline_place
+  rotate: false
+  xy: 3045, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_outline_remove
+  rotate: false
+  xy: 3111, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_place
+  rotate: false
+  xy: 3177, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_remove
+  rotate: false
+  xy: 3243, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_rotate
+  rotate: false
+  xy: 3309, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_subtract
+  rotate: false
+  xy: 3375, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_tap
+  rotate: false
+  xy: 3441, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_tap_down
+  rotate: false
+  xy: 3507, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_tap_outline
+  rotate: false
+  xy: 3573, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_tap_outline_down
+  rotate: false
+  xy: 3639, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_tap_outline_up
+  rotate: false
+  xy: 3705, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_tap_up
+  rotate: false
+  xy: 1643, 317
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/card_target
+  rotate: false
+  xy: 1643, 251
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_collection
+  rotate: false
+  xy: 1709, 330
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_collection_outline
+  rotate: false
+  xy: 1709, 264
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_diagonal
+  rotate: false
+  xy: 1775, 330
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_fan
+  rotate: false
+  xy: 1775, 264
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_fan_outline
+  rotate: false
+  xy: 2067, 389
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_flip
+  rotate: false
+  xy: 2133, 389
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_order
+  rotate: false
+  xy: 2199, 407
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_return
+  rotate: false
+  xy: 2265, 407
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_seek
+  rotate: false
+  xy: 2331, 407
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_seek_top
+  rotate: false
+  xy: 2397, 407
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_shift
+  rotate: false
+  xy: 2463, 407
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_shuffle
+  rotate: false
+  xy: 2529, 407
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_skull
+  rotate: false
+  xy: 2595, 407
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_stack
+  rotate: false
+  xy: 2661, 407
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_stack_cross
+  rotate: false
+  xy: 2727, 407
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_stack_high
+  rotate: false
+  xy: 3849, 582
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_take
+  rotate: false
+  xy: 4000, 1663
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/cards_under
+  rotate: false
+  xy: 3987, 1597
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/character
+  rotate: false
+  xy: 3987, 1531
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/character_lift
+  rotate: false
+  xy: 3771, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/character_place
+  rotate: false
+  xy: 2843, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/character_remove
+  rotate: false
+  xy: 2909, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/chess_bishop
+  rotate: false
+  xy: 2975, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/chess_king
+  rotate: false
+  xy: 3041, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/chess_knight
+  rotate: false
+  xy: 3107, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/chess_pawn
+  rotate: false
+  xy: 3173, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/chess_queen
+  rotate: false
+  xy: 3239, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/chess_rook
+  rotate: false
+  xy: 3305, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/crown_a
+  rotate: false
+  xy: 3371, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/crown_b
+  rotate: false
+  xy: 3437, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d10
+  rotate: false
+  xy: 3767, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d10_number
+  rotate: false
+  xy: 3923, 1200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d10_outline
+  rotate: false
+  xy: 3923, 1134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d10_outline_number
+  rotate: false
+  xy: 3956, 1446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d12
+  rotate: false
+  xy: 3923, 1266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d12_number
+  rotate: false
+  xy: 3956, 1380
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d12_outline
+  rotate: false
+  xy: 165, 18
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d12_outline_number
+  rotate: false
+  xy: 231, 18
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d2
+  rotate: false
+  xy: 3503, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flip_full
+  rotate: false
+  xy: 3503, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d20_number
+  rotate: false
+  xy: 3923, 1068
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d20_outline
+  rotate: false
+  xy: 3915, 1002
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d8_outline
+  rotate: false
+  xy: 3915, 1002
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d20_outline_number
+  rotate: false
+  xy: 3915, 936
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d2_number
+  rotate: false
+  xy: 3915, 870
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d2_outline
+  rotate: false
+  xy: 3915, 804
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flip_empty
+  rotate: false
+  xy: 3915, 804
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d2_outline_number
+  rotate: false
+  xy: 3915, 738
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d3
+  rotate: false
+  xy: 3569, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d6
+  rotate: false
+  xy: 3569, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d3_number
+  rotate: false
+  xy: 3915, 672
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d3_outline
+  rotate: false
+  xy: 3915, 606
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d6_outline
+  rotate: false
+  xy: 3915, 606
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d3_outline_number
+  rotate: false
+  xy: 2843, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d4
+  rotate: false
+  xy: 3635, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d4_number
+  rotate: false
+  xy: 2909, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d4_outline
+  rotate: false
+  xy: 2975, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d4_outline_number
+  rotate: false
+  xy: 3041, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d6_number
+  rotate: false
+  xy: 3107, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d6_outline_number
+  rotate: false
+  xy: 3173, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d8
+  rotate: false
+  xy: 3701, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d20
+  rotate: false
+  xy: 3701, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d8_number
+  rotate: false
+  xy: 3239, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/d8_outline_number
+  rotate: false
+  xy: 3305, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/dice
+  rotate: false
+  xy: 3371, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/dice
+  rotate: false
+  xy: 3437, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+icons/kenney-board-game/dice
+  rotate: false
+  xy: 3503, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+icons/kenney-board-game/dice
+  rotate: false
+  xy: 3569, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+icons/kenney-board-game/dice
+  rotate: false
+  xy: 3635, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+icons/kenney-board-game/dice
+  rotate: false
+  xy: 3701, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+icons/kenney-board-game/dice
+  rotate: false
+  xy: 3767, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+icons/kenney-board-game/dice_3D
+  rotate: false
+  xy: 3915, 540
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/dice_3D_detailed
+  rotate: false
+  xy: 3989, 1280
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/dice_close
+  rotate: false
+  xy: 3989, 1214
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/dice_detailed
+  rotate: false
+  xy: 3989, 1148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/dice_empty
+  rotate: false
+  xy: 3989, 1082
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/dice_out
+  rotate: false
+  xy: 2199, 341
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/dice_question
+  rotate: false
+  xy: 2265, 341
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/dice_shield
+  rotate: false
+  xy: 2331, 341
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/dice_skull
+  rotate: false
+  xy: 2397, 341
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/dice_sword
+  rotate: false
+  xy: 2463, 341
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/direction_e
+  rotate: false
+  xy: 2529, 341
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/direction_n
+  rotate: false
+  xy: 2595, 341
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/direction_s
+  rotate: false
+  xy: 2661, 341
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/direction_w
+  rotate: false
+  xy: 2727, 341
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/dollar
+  rotate: false
+  xy: 843, 176
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/dollar_outline
+  rotate: false
+  xy: 909, 176
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/exploding
+  rotate: false
+  xy: 975, 176
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/exploding
+  rotate: false
+  xy: 1041, 176
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+icons/kenney-board-game/fire
+  rotate: false
+  xy: 1107, 176
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flag_square
+  rotate: false
+  xy: 1173, 176
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flag_triangle
+  rotate: false
+  xy: 1239, 176
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number0
+  rotate: false
+  xy: 1305, 176
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number1
+  rotate: false
+  xy: 1371, 176
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number2
+  rotate: false
+  xy: 1437, 176
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number3
+  rotate: false
+  xy: 843, 110
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number4
+  rotate: false
+  xy: 909, 110
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number5
+  rotate: false
+  xy: 975, 110
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number6
+  rotate: false
+  xy: 1041, 110
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number7
+  rotate: false
+  xy: 1107, 110
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number8
+  rotate: false
+  xy: 1173, 110
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number9
+  rotate: false
+  xy: 1239, 110
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number_0_outline
+  rotate: false
+  xy: 1305, 110
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number_1_outline
+  rotate: false
+  xy: 1371, 110
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number_2_outline
+  rotate: false
+  xy: 1437, 110
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number_3_outline
+  rotate: false
+  xy: 841, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number_4_outline
+  rotate: false
+  xy: 907, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number_5_outline
+  rotate: false
+  xy: 973, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number_6_outline
+  rotate: false
+  xy: 1039, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number_7_outline
+  rotate: false
+  xy: 1105, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number_8_outline
+  rotate: false
+  xy: 1171, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_number_9_outline
+  rotate: false
+  xy: 1237, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_plus
+  rotate: false
+  xy: 1303, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_small_check
+  rotate: false
+  xy: 1369, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_small_check_outline
+  rotate: false
+  xy: 1435, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_small_cross
+  rotate: false
+  xy: 297, 18
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_small_cross_outline
+  rotate: false
+  xy: 363, 25
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_small_cross_outline2
+  rotate: false
+  xy: 429, 25
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_small_disabled
+  rotate: false
+  xy: 495, 25
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_small_disabled_outline
+  rotate: false
+  xy: 561, 25
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_small_disabled_outline2
+  rotate: false
+  xy: 627, 25
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_small_info
+  rotate: false
+  xy: 693, 25
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_small_info_outline
+  rotate: false
+  xy: 759, 25
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_small_rotate
+  rotate: false
+  xy: 3989, 1016
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flair_small_rotate_outline
+  rotate: false
+  xy: 3981, 950
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flask_empty
+  rotate: false
+  xy: 3981, 884
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flask_full
+  rotate: false
+  xy: 3981, 818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flask_half
+  rotate: false
+  xy: 3981, 752
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flip_half
+  rotate: false
+  xy: 3981, 686
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flip_head
+  rotate: false
+  xy: 3981, 620
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/flip_tails
+  rotate: false
+  xy: 3981, 554
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hand
+  rotate: false
+  xy: 1709, 198
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hand_card
+  rotate: false
+  xy: 1775, 198
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hand_cross
+  rotate: false
+  xy: 4022, 1465
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hand_cube
+  rotate: false
+  xy: 4022, 1399
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hand_hexagon
+  rotate: false
+  xy: 1513, 187
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hand_token
+  rotate: false
+  xy: 1503, 121
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hand_token_open
+  rotate: false
+  xy: 1503, 55
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hexagon
+  rotate: false
+  xy: 1569, 121
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hexagon_in
+  rotate: false
+  xy: 1569, 55
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hexagon_out
+  rotate: false
+  xy: 1848, 339
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hexagon_outline
+  rotate: false
+  xy: 1841, 273
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hexagon_question
+  rotate: false
+  xy: 1841, 207
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hexagon_switch
+  rotate: false
+  xy: 1914, 339
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hexagon_tile
+  rotate: false
+  xy: 1907, 273
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hourglass
+  rotate: false
+  xy: 1907, 207
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hourglass_bottom
+  rotate: false
+  xy: 1980, 341
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/hourglass_top
+  rotate: false
+  xy: 2046, 323
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/lock_closed
+  rotate: false
+  xy: 2112, 323
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/lock_open
+  rotate: false
+  xy: 1980, 275
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/notepad
+  rotate: false
+  xy: 1973, 209
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/notepad_write
+  rotate: false
+  xy: 2046, 257
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pawn
+  rotate: false
+  xy: 2112, 257
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pawn_clockwise
+  rotate: false
+  xy: 2178, 275
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pawn_counterclockwise
+  rotate: false
+  xy: 2244, 275
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pawn_down
+  rotate: false
+  xy: 2310, 275
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pawn_flip
+  rotate: false
+  xy: 2376, 275
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pawn_left
+  rotate: false
+  xy: 2442, 275
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pawn_plus
+  rotate: false
+  xy: 2508, 275
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pawn_reverse
+  rotate: false
+  xy: 2574, 275
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pawn_right
+  rotate: false
+  xy: 2640, 275
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pawn_skip
+  rotate: false
+  xy: 2706, 275
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pawn_table
+  rotate: false
+  xy: 2039, 191
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pawn_up
+  rotate: false
+  xy: 2105, 191
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pawns
+  rotate: false
+  xy: 2772, 257
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pentagon
+  rotate: false
+  xy: 2171, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pentagon_outline
+  rotate: false
+  xy: 2237, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pentagon_question
+  rotate: false
+  xy: 2303, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/plus
+  rotate: false
+  xy: 2105, 91
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pouch
+  rotate: false
+  xy: 2171, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pouch_add
+  rotate: false
+  xy: 2237, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/pouch_remove
+  rotate: false
+  xy: 2303, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/puzzle
+  rotate: false
+  xy: 2369, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/resource_apple
+  rotate: false
+  xy: 2435, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/resource_iron
+  rotate: false
+  xy: 2501, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/resource_lumber
+  rotate: false
+  xy: 2567, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/resource_planks
+  rotate: false
+  xy: 2633, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/resource_wheat
+  rotate: false
+  xy: 2699, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/resource_wood
+  rotate: false
+  xy: 2843, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/rhombus
+  rotate: false
+  xy: 2909, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/rhombus_outline
+  rotate: false
+  xy: 2975, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/rhombus_question
+  rotate: false
+  xy: 3041, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/shield
+  rotate: false
+  xy: 3107, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/skull
+  rotate: false
+  xy: 3173, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/spinner
+  rotate: false
+  xy: 3239, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/spinner_segment
+  rotate: false
+  xy: 3305, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/structure_church
+  rotate: false
+  xy: 3371, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/structure_farm
+  rotate: false
+  xy: 3437, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/structure_gate
+  rotate: false
+  xy: 3503, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/structure_house
+  rotate: false
+  xy: 3569, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/structure_tower
+  rotate: false
+  xy: 3635, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/structure_wall
+  rotate: false
+  xy: 3701, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/structure_watchtower
+  rotate: false
+  xy: 3767, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/suit_clubs
+  rotate: false
+  xy: 2838, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/suit_diamonds
+  rotate: false
+  xy: 2904, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/suit_hearts
+  rotate: false
+  xy: 2970, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/suit_hearts_broken
+  rotate: false
+  xy: 3036, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/suit_spades
+  rotate: false
+  xy: 3102, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/sword
+  rotate: false
+  xy: 3168, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag0
+  rotate: false
+  xy: 3234, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag1
+  rotate: false
+  xy: 3300, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag10
+  rotate: false
+  xy: 2904, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag2
+  rotate: false
+  xy: 3366, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag3
+  rotate: false
+  xy: 3432, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag4
+  rotate: false
+  xy: 3498, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag5
+  rotate: false
+  xy: 3564, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag6
+  rotate: false
+  xy: 3630, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag7
+  rotate: false
+  xy: 3696, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag8
+  rotate: false
+  xy: 3762, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag9
+  rotate: false
+  xy: 2838, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag_d6
+  rotate: false
+  xy: 2970, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag_d6
+  rotate: false
+  xy: 3036, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+icons/kenney-board-game/tag_d6
+  rotate: false
+  xy: 3102, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+icons/kenney-board-game/tag_d6
+  rotate: false
+  xy: 3168, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+icons/kenney-board-game/tag_d6
+  rotate: false
+  xy: 3234, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+icons/kenney-board-game/tag_d6
+  rotate: false
+  xy: 3300, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+icons/kenney-board-game/tag_d6
+  rotate: false
+  xy: 3366, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+icons/kenney-board-game/tag_d6_check
+  rotate: false
+  xy: 3432, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag_d6_cross
+  rotate: false
+  xy: 3498, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag_d6_infinte
+  rotate: false
+  xy: 3564, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag_empty
+  rotate: false
+  xy: 3630, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag_infinite
+  rotate: false
+  xy: 3696, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag_shield
+  rotate: false
+  xy: 3762, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tag_shield
+  rotate: false
+  xy: 2831, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+icons/kenney-board-game/tag_shield
+  rotate: false
+  xy: 2831, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+icons/kenney-board-game/tag_shield
+  rotate: false
+  xy: 2897, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+icons/kenney-board-game/tag_shield
+  rotate: false
+  xy: 2897, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+icons/kenney-board-game/tag_shield
+  rotate: false
+  xy: 2963, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+icons/kenney-board-game/tag_shield
+  rotate: false
+  xy: 2963, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+icons/kenney-board-game/tag_shield
+  rotate: false
+  xy: 3029, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 7
+icons/kenney-board-game/tag_shield
+  rotate: false
+  xy: 3029, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 8
+icons/kenney-board-game/tag_shield
+  rotate: false
+  xy: 3095, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 9
+icons/kenney-board-game/tag_shield
+  rotate: false
+  xy: 3095, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 10
+icons/kenney-board-game/tag_shield_infinite
+  rotate: false
+  xy: 3161, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/timer-CW-25
+  rotate: false
+  xy: 3359, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/timer-CW-50
+  rotate: false
+  xy: 3359, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/timer-CW-75
+  rotate: false
+  xy: 3425, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/token
+  rotate: false
+  xy: 3425, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/token_add
+  rotate: false
+  xy: 3491, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/token_give
+  rotate: false
+  xy: 3491, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/token_in
+  rotate: false
+  xy: 3557, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/token_out
+  rotate: false
+  xy: 3557, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/token_remove
+  rotate: false
+  xy: 3623, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/token_subtract
+  rotate: false
+  xy: 3623, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tokens
+  rotate: false
+  xy: 3689, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tokens_shadow
+  rotate: false
+  xy: 3689, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/tokens_stack
+  rotate: false
+  xy: 3755, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/timer-0
+  rotate: false
+  xy: 3161, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/timer-0
+  rotate: false
+  xy: 3161, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/timer-100
+  rotate: false
+  xy: 3293, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/timer-100
+  rotate: false
+  xy: 3293, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/timer-25
+  rotate: false
+  xy: 3227, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/timer_CCW
+  rotate: false
+  xy: 3227, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 25
+icons/timer-50
+  rotate: false
+  xy: 3227, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/timer_CCW
+  rotate: false
+  xy: 3227, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 50
+icons/timer-75
+  rotate: false
+  xy: 3293, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icons/kenney-board-game/timer_CCW
+  rotate: false
+  xy: 3293, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 75
+misc/fuzzy-circle
+  rotate: false
+  xy: 3981, 488
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+misc/guy
+  rotate: false
+  xy: 1513, 585
+  size: 673, 16
+  orig: 673, 16
+  offset: 0, 0
+  index: -1
+misc/libgdx
+  rotate: false
+  xy: 1, 158
+  size: 378, 63
+  orig: 378, 63
+  offset: 0, 0
+  index: -1
+ninepatch/plain
+  rotate: false
+  xy: 1513, 253
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/plain-dim
+  rotate: false
+  xy: 2067, 455
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/plain-gradient
+  rotate: false
+  xy: 2197, 473
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+particles/bite
+  rotate: false
+  xy: 64, 18
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: 1
+particles/blood/particle-blood
+  rotate: false
+  xy: 4074, 1851
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: 1
+particles/blood/particle-blood
+  rotate: false
+  xy: 4075, 458
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: 2
+particles/blood/particle-blood-splat
+  rotate: false
+  xy: 4055, 1016
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+particles/kenney/circle
+  rotate: false
+  xy: 4047, 646
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/circle
+  rotate: false
+  xy: 4047, 612
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/circle
+  rotate: false
+  xy: 4047, 578
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/circle
+  rotate: false
+  xy: 4047, 544
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/circle
+  rotate: false
+  xy: 4047, 510
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/dirt
+  rotate: false
+  xy: 3837, 480
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/dirt
+  rotate: false
+  xy: 3871, 480
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/dirt
+  rotate: false
+  xy: 3905, 480
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/fire
+  rotate: false
+  xy: 3935, 310
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/fire
+  rotate: false
+  xy: 3973, 454
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/flame
+  rotate: false
+  xy: 4007, 454
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/flame
+  rotate: false
+  xy: 3867, 276
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/flame
+  rotate: false
+  xy: 3901, 276
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/flame
+  rotate: false
+  xy: 3935, 276
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/flame
+  rotate: false
+  xy: 3833, 250
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/flame
+  rotate: false
+  xy: 3828, 216
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+particles/kenney/flare
+  rotate: false
+  xy: 3828, 182
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/light
+  rotate: false
+  xy: 3862, 208
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/light
+  rotate: false
+  xy: 3862, 174
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/light
+  rotate: false
+  xy: 3896, 208
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/magic
+  rotate: false
+  xy: 3896, 174
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/magic
+  rotate: false
+  xy: 3930, 208
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/magic
+  rotate: false
+  xy: 3930, 174
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/magic
+  rotate: false
+  xy: 3862, 140
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/magic
+  rotate: false
+  xy: 3896, 140
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/muzzle
+  rotate: false
+  xy: 3930, 140
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/muzzle
+  rotate: false
+  xy: 4041, 450
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/muzzle
+  rotate: false
+  xy: 3828, 114
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/muzzle
+  rotate: false
+  xy: 3821, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/muzzle
+  rotate: false
+  xy: 3821, 46
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/scorch
+  rotate: false
+  xy: 4055, 1127
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/scorch
+  rotate: false
+  xy: 4055, 1093
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/scorch
+  rotate: false
+  xy: 4055, 1059
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/scratch
+  rotate: false
+  xy: 4055, 1025
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/slash
+  rotate: false
+  xy: 3973, 420
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/slash
+  rotate: false
+  xy: 4007, 420
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/slash
+  rotate: false
+  xy: 3969, 386
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/slash
+  rotate: false
+  xy: 3969, 352
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/smoke
+  rotate: false
+  xy: 4003, 386
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/smoke
+  rotate: false
+  xy: 3969, 318
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/smoke
+  rotate: false
+  xy: 4003, 352
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/smoke
+  rotate: false
+  xy: 3969, 284
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/smoke
+  rotate: false
+  xy: 4003, 318
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/smoke
+  rotate: false
+  xy: 3969, 250
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+particles/kenney/smoke
+  rotate: false
+  xy: 4003, 284
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+particles/kenney/smoke
+  rotate: false
+  xy: 4003, 250
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+particles/kenney/smoke
+  rotate: false
+  xy: 4041, 416
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+particles/kenney/smoke
+  rotate: false
+  xy: 4037, 382
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+particles/kenney/spark
+  rotate: false
+  xy: 4037, 348
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/spark
+  rotate: false
+  xy: 4037, 314
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/spark
+  rotate: false
+  xy: 4037, 280
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/spark
+  rotate: false
+  xy: 4037, 246
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/spark
+  rotate: false
+  xy: 3969, 216
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/spark
+  rotate: false
+  xy: 4003, 216
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+particles/kenney/spark
+  rotate: false
+  xy: 4037, 212
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+particles/kenney/star
+  rotate: false
+  xy: 1703, 62
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/star
+  rotate: false
+  xy: 1737, 96
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/star
+  rotate: false
+  xy: 1771, 130
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/star
+  rotate: false
+  xy: 1805, 164
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/star
+  rotate: false
+  xy: 1737, 62
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/star
+  rotate: false
+  xy: 1771, 96
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+particles/kenney/star
+  rotate: false
+  xy: 1805, 130
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+particles/kenney/star
+  rotate: false
+  xy: 1771, 62
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+particles/kenney/star
+  rotate: false
+  xy: 1805, 96
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+particles/kenney/symbol
+  rotate: false
+  xy: 1805, 62
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/symbol
+  rotate: false
+  xy: 1839, 107
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/trace
+  rotate: false
+  xy: 1873, 107
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/trace
+  rotate: false
+  xy: 1839, 73
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/trace
+  rotate: false
+  xy: 1907, 107
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/trace
+  rotate: false
+  xy: 1873, 73
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/trace
+  rotate: false
+  xy: 1907, 73
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/trace
+  rotate: false
+  xy: 1703, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+particles/kenney/trace
+  rotate: false
+  xy: 1737, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+particles/kenney/twirl
+  rotate: false
+  xy: 1771, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/twirl
+  rotate: false
+  xy: 1805, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/twirl
+  rotate: false
+  xy: 1839, 39
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/window
+  rotate: false
+  xy: 1873, 39
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/window
+  rotate: false
+  xy: 1907, 39
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/window
+  rotate: false
+  xy: 1839, 5
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/window
+  rotate: false
+  xy: 1873, 5
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/splats/splat
+  rotate: false
+  xy: 3964, 182
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+particles/splats/splat
+  rotate: false
+  xy: 3964, 148
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/splats/splat
+  rotate: false
+  xy: 3998, 182
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/splats/splat
+  rotate: false
+  xy: 3964, 114
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/splats/splat
+  rotate: false
+  xy: 3998, 148
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/splats/splat
+  rotate: false
+  xy: 3998, 114
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/splats/splat
+  rotate: false
+  xy: 4032, 178
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+particles/splats/splat
+  rotate: false
+  xy: 4032, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+particles/splats/splat
+  rotate: false
+  xy: 4032, 110
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+particles/splats/splat
+  rotate: false
+  xy: 3964, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+particles/splats/splat
+  rotate: false
+  xy: 3998, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+particles/splats/splat
+  rotate: false
+  xy: 4032, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 11
+particles/splats/splat
+  rotate: false
+  xy: 3957, 46
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 12
+particles/splats/splat
+  rotate: false
+  xy: 3991, 46
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 13
+particles/splats/splat
+  rotate: false
+  xy: 4025, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 14
+particles/splats/splat
+  rotate: false
+  xy: 3957, 12
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 15
+particles/splats/splat
+  rotate: false
+  xy: 3991, 12
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 16
+particles/splats/splat
+  rotate: false
+  xy: 4025, 8
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 17
+particles/splats/splat
+  rotate: false
+  xy: 1645, 217
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 18
+particles/splats/splat
+  rotate: false
+  xy: 1645, 183
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 19
+particles/splats/splat
+  rotate: false
+  xy: 1635, 149
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 20
+particles/splats/splat
+  rotate: false
+  xy: 1635, 115
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 21
+particles/splats/splat
+  rotate: false
+  xy: 1635, 81
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 22
+particles/splats/splat
+  rotate: false
+  xy: 1635, 47
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 23
+particles/splats/splat
+  rotate: false
+  xy: 1633, 13
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 24
+particles/splats/splat
+  rotate: false
+  xy: 1669, 149
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 25
+particles/splats/splat
+  rotate: false
+  xy: 1669, 115
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 26
+particles/splats/splat
+  rotate: false
+  xy: 1669, 81
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 27
+particles/splats/splat
+  rotate: false
+  xy: 1669, 47
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 28
+particles/splats/splat
+  rotate: false
+  xy: 1667, 13
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 29
+particles/splats/splat
+  rotate: false
+  xy: 1703, 164
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 30
+particles/splats/splat
+  rotate: false
+  xy: 1703, 130
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 31
+particles/splats/splat
+  rotate: false
+  xy: 1737, 164
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 32
+particles/splats/splat
+  rotate: false
+  xy: 1703, 96
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 33
+particles/splats/splat
+  rotate: false
+  xy: 1737, 130
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 34
+particles/splats/splat
+  rotate: false
+  xy: 1771, 164
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 35
+pets/cat
+  rotate: false
+  xy: 4053, 1531
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 0
+pets/cat
+  rotate: false
+  xy: 3789, 7
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 1
+pets/cat
+  rotate: false
+  xy: 4047, 484
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 2
+pets/cat
+  rotate: false
+  xy: 3909, 514
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 3
+pets/cat
+  rotate: false
+  xy: 3943, 514
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 4
+pets/cat
+  rotate: false
+  xy: 3837, 454
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 5
+pets/dog
+  rotate: false
+  xy: 3935, 412
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+pets/dog
+  rotate: false
+  xy: 3867, 310
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+pets/dog
+  rotate: false
+  xy: 3901, 344
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+pets/dog
+  rotate: false
+  xy: 3935, 378
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+pets/dog
+  rotate: false
+  xy: 3901, 310
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+pets/dog
+  rotate: false
+  xy: 3935, 344
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+pets/kitten
+  rotate: false
+  xy: 3828, 148
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+pets/kitten
+  rotate: false
+  xy: 3867, 242
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+pets/kitten
+  rotate: false
+  xy: 3901, 242
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+pets/kitten
+  rotate: false
+  xy: 3935, 242
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+pets/ross-dog
+  rotate: false
+  xy: 4047, 937
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 0
+pets/ross-dog
+  rotate: false
+  xy: 1579, 224
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 1
+pets/ross-dog
+  rotate: false
+  xy: 4047, 908
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 2
+pets/ross-dog
+  rotate: false
+  xy: 4047, 879
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 3
+pets/ross-dog
+  rotate: false
+  xy: 4047, 850
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 4
+pets/white-lab-dog
+  rotate: false
+  xy: 4053, 1625
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: 0
+pixel
+  rotate: false
+  xy: 162, 53
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+title/title-screen-rampage-blank
+  rotate: false
+  xy: 1923, 1327
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 0
+title/title-screen-rampage-blank
+  rotate: false
+  xy: 1, 603
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 1
+title/title-screen-rampage-static
+  rotate: false
+  xy: 1283, 603
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 0
+title/title-screen-rampage-text
+  rotate: false
+  xy: 1, 289
+  size: 870, 312
+  orig: 870, 312
+  offset: 0, 0
+  index: 0
+title/title-screen-text-a
+  rotate: false
+  xy: 1848, 405
+  size: 109, 178
+  orig: 109, 178
+  offset: 0, 0
+  index: 0
+title/title-screen-text-aa
+  rotate: false
+  xy: 3847, 1332
+  size: 107, 178
+  orig: 107, 178
+  offset: 0, 0
+  index: 0
+title/title-screen-text-e
+  rotate: false
+  xy: 3847, 1687
+  size: 151, 188
+  orig: 151, 188
+  offset: 0, 0
+  index: 0
+title/title-screen-text-g
+  rotate: false
+  xy: 3847, 1512
+  size: 138, 173
+  orig: 138, 173
+  offset: 0, 0
+  index: 0
+title/title-screen-text-m
+  rotate: false
+  xy: 1695, 396
+  size: 151, 187
+  orig: 151, 187
+  offset: 0, 0
+  index: 0
+title/title-screen-text-p
+  rotate: false
+  xy: 1959, 407
+  size: 106, 176
+  orig: 106, 176
+  offset: 0, 0
+  index: 0
+title/title-screen-text-r
+  rotate: false
+  xy: 1513, 383
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 0
+title/title-screen-tiny-text
+  rotate: false
+  xy: 3847, 1877
+  size: 238, 170
+  orig: 238, 170
+  offset: 0, 0
+  index: 0
