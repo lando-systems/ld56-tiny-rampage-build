@@ -1,14 +1,2 @@
-* text=auto
-*.atlas text eol=lf
-*.json text eol=lf
-*.txt text eol=lf
-*.js text eol=lf
-*.html text eol=lf
-*.css text eol=lf
-*.xml text eol=lf
-*.png binary
-*.jpg binary
-*.gif binary
-*.wav binary
-*.ogg binary
-*.mp3 binary
+# Force LF for all text files - LibGDX/GWT needs consistency
+* text eol=lf
